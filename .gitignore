@@ -1,16 +1,18 @@
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
+/[Tt]emp/
 [Oo]bj/
 [Bb]uild
 /[Bb]uilds/
-/[Ll]ibrary/
+[Ll]ibrary/
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+/Library/
+
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -37,7 +39,6 @@ sysinfo.txt
 ._*
 .Spotlight-V100
 .Trashes
-Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
